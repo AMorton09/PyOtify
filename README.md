@@ -1,0 +1,2 @@
+# PyOtify
+Python Spotify API
